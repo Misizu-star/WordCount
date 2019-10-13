@@ -1,0 +1,56 @@
+characters: 556
+words: 41
+lines: 2
+
+最多的前3个单词
+china
+people
+anniversary
+
+长度为4的词组：
+anniversary founding people republic : 1
+anniversary people republic china : 1
+army tiananmen square october : 1
+beijing capital china xinhua : 1
+capital china xinhua jiang : 1
+celebrating founding anniversary people : 1
+china beijing capital china : 1
+china world second largest : 1
+china xinhua jiang kehong : 1
+clearly hinted position regard : 1
+displayed national mass pageantry : 1
+economy clearly hinted position : 1
+equipment show people liberation : 1
+founding anniversary people republic : 1
+founding people republic china : 1
+grand military parade ultra : 1
+hinted position regard military : 1
+huge portrait jinping displayed : 1
+jiang kehong with grand : 1
+jinping displayed national mass : 1
+kehong with grand military : 1
+largest economy clearly hinted : 1
+liberation army tiananmen square : 1
+mass pageantry celebrating founding : 1
+military parade ultra modern : 1
+modern equipment show people : 1
+national mass pageantry celebrating : 1
+occasion anniversary founding people : 1
+october occasion anniversary founding : 1
+pageantry celebrating founding anniversary : 1
+parade ultra modern equipment : 1
+people liberation army tiananmen : 1
+people republic china beijing : 1
+people republic china world : 1
+portrait jinping displayed national : 1
+position regard military might : 1
+republic china beijing capital : 1
+republic china world second : 1
+second largest economy clearly : 1
+show people liberation army : 1
+square october occasion anniversary : 1
+tiananmen square october occasion : 1
+ultra modern equipment show : 1
+with grand military parade : 1
+world second largest economy : 1
+xinhua jiang kehong with : 1

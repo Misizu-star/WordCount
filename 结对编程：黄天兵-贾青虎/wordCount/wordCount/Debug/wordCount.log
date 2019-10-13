@@ -1,1 +1,7 @@
-﻿  wordCount.vcxproj -> D:\Git仓库\WordCount\结对编程：黄天兵-贾青虎\wordCount\Debug\wordCount.exe
+﻿  main.cpp
+  wordCount.cpp
+d:\git仓库\wordcount\结对编程：黄天兵-贾青虎\wordcount\wordcount\wordcount.cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+d:\git仓库\wordcount\结对编程：黄天兵-贾青虎\wordcount\wordcount\wordcount.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+d:\git仓库\wordcount\结对编程：黄天兵-贾青虎\wordcount\wordcount\wordcount.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  wordCount.vcxproj -> D:\Git仓库\WordCount\结对编程：黄天兵-贾青虎\wordCount\Debug\wordCount.exe
